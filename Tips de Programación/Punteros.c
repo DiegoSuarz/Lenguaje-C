@@ -13,4 +13,3 @@ int main(){
     printf("\nEl valor de la variable puntero ptr_a es: %d",ptr_a);
     printf("\n la direccion de la variable puntero ptr_a es: %d ",&ptr_a);
     return 0;
-}

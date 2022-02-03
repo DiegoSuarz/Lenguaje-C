@@ -32,6 +32,4 @@ int main(int argc, char *argv){
 uint16_t Sumatoria_Numeros(void){
     
     return (n*(n+1))/2;
-
-
 }
