@@ -5,7 +5,7 @@
 //Es la unica variable con es funcion?
 //Si la veo en otra porte del codigo, sigue teniendo sentido?
 
-#define
+
 
 int contador_revoluciones=0;
 const int limite_revoluciones=200;

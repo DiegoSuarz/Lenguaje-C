@@ -2,6 +2,7 @@
 
 //Inicializacion de structuras
 
+//Inicializacion en tiempo de compilación
 struct sensor
 {
     int medicion;
